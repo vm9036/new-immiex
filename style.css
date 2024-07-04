@@ -1,0 +1,19 @@
+.img-hover-zoom{
+    height: 95%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.country-flag {
+    transition: transform 0.3s ease-in-out;
+}
+
+.country-flag:hover {
+    transform: scale(1.2);
+}
+
+.card-size{
+    height: 178px;
+    width: 206px;
+}
+
